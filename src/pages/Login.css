@@ -8,7 +8,7 @@ body {
 }
 
 .wallet-icon {
-  width: 30%;
+  width: 20%;
 }
 
 .login-container {
@@ -16,6 +16,10 @@ body {
   flex-direction: column;
   align-items: center;
   padding: 5%;
+}
+
+input {
+  margin: 3px;
 }
 
 .login-form {
